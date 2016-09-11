@@ -16,7 +16,7 @@ I googled it and found solution in [stackoverflow](http://stackoverflow.com/ques
 
 This will do.
 
-### I asked my classmate yw2278 to pair up.
+### I asked my classmate yw2278 to pair up as my "fork neighbor".
 
 
 ## Assignment 2: Set up my environment: 
