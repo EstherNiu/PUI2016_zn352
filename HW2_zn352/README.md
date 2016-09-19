@@ -1,15 +1,17 @@
 ###Assignment 1
-1. used dictionary.get function
-2. got confused sometimes about data type (list/dic)
-3. 
+1. used dictionary.get function to acquire lat&lon of the busline
+2. got confused about data type (list/dic), while using dic function, sometimes created a list
+3. using jsonviewer was a great help. Thanks to Jie Zhou (jz2792@nyu.edu) for explaining json structure and making me understand what [i] means.
 
 ###Assignment 2
-1. similar way of approaching as assignment 1
-2. had some trouble trying to figure out how to write and open an csv file
-3. still confused about how to open csv file in terminal
-4. 
+1. similar approach as assignment 1
+2. had some trouble trying to figure out how to write and open a csv file
 
 ###Assignment 3
+1. hard part for Assi/3 was to locate csv file in compute
+2. at the end I had trouble pushing my files via git command line. I had to upload files from my local computer, which was frustrated and I would def be looking into that issue. 
 
 ###Collaboration
-1. 
+1. I worked with a 6-member-team and we had several discussion on what method/data type to use for the assignments.
+2. Yao Wang (yw2278@nyu.edu) helped me with structural quesions
+3. Jie Zhou (jz2792@nyu.edu) and Xinge Zhong (xz1809@nyu.edu) helped me with assignment 1, and we also had discussion on how to deal with assignment 2&3
