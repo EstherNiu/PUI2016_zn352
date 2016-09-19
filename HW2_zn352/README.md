@@ -13,5 +13,5 @@
 
 ###Collaboration
 1. I worked with a 6-member-team and we had several discussion on what method/data type to use for the assignments.
-2. Yao Wang (yw2278@nyu.edu) helped me with structural quesions
+2. Yao Wang (yw2278@nyu.edu) helped me with structural questions as well as assignment 3.
 3. Jie Zhou (jz2792@nyu.edu) and Xinge Zhong (xz1809@nyu.edu) helped me with assignment 1, and we also had discussion on how to deal with assignment 2&3
