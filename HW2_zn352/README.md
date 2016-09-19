@@ -9,7 +9,6 @@
 
 ###Assignment 3
 1. hard part for Assi/3 was to locate csv file in compute
-2. at the end I had trouble pushing my files via git command line. I had to upload files from my local computer, which was frustrated and I would def be looking into that issue. 
 
 ###Collaboration
 1. I worked with a 6-member-team and we had several discussion on what method/data type to use for the assignments.
