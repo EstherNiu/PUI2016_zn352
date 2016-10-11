@@ -4,7 +4,10 @@ Formulate the Null hypothesis in words and in formulae for the 4 experiments bel
 
 Do diets help lose more fat than the exercise?
 Experimental setup: you have a test and a control sample.
-| sdfsdadsfsddsd
+
+	Null Hypothesis: The kilo of fat participants lose over diets is less or equal to kilo of fat participants (in control group) lose over exercise during a certain period of time. 
+	
+
 Do American trust the president?sdf
 POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
 
