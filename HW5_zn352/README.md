@@ -5,7 +5,10 @@ Formulate the Null hypothesis in words and in formulae for the 4 experiments bel
 Do diets help lose more fat than the exercise?
 Experimental setup: you have a test and a control sample.
 
-	Null Hypothesis: The kilo of fat participants lose over diets is less or equal to kilo of fat participants (in control group) lose over exercise during a certain period of time. 
+	Null Hypothesis: The kilo of fat participants lose over diets is less or equal to kilo of fat participants
+	(in control group) lose over exercise during a certain period of time. 
+	$H0 = P(diet) - p(excer) <= 0$
+	
 	
 
 Do American trust the president?sdf
