@@ -1,4 +1,6 @@
 # Assignment 1
+Thanks to Yao Wang (yw2278) for sharing his py code on zip file downloading and unzipping. 
+https://github.com/yw2278/PUI2016_yw2278/blob/master/getzip.py
 
 
 # Assginment 2
