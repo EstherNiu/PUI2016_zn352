@@ -1,1 +1,3 @@
-![plot: my .bashrc](HW7_plot_zn352.png)
+![plot: my .bashrc](HW7_plot.png)
+Figure 1: This figure displays the average trip duration time in seconds for CitiBike users in age groups 15 to 90 years old. We do not see significant differences between each group, although in (75,80] age group the average time spend riding CitiBike is much higher, while in (80,85] age group a dip. It would be interesting to investigate what the pead and dip corresponds to: we can speculate sample data might be not representative enough in those categories, or that elder CitiBike riders (supposingly above 75 years old) have less steady consumer behavior routine than younger riders.¶
+Data Source: CitiBike Open Data of Jan 2015
