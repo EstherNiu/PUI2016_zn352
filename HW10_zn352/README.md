@@ -15,11 +15,11 @@ Figure 1 & 2 shows there is difference in the **(1)active scale** and **(2)activ
 Figure 3 & 4 shows geographical relationship in the neighboring area of ridership. 
 - Winter affects more in boroughs other than Manhattan, e.g. Brooklyn, possibly mean that people are less likely to use Citi Bikes in South area of NYC between Jan - March. 
 
-![plot: my .bashrc](plots/HW10_summerplot_zn352.png)
+![plot: my .bashrc](plots/HW10_summerlag_zn352.png)
 
 Figure 1 
 
-![plot: my .bashrc](plots/HW10_winterplot_zn352.png)
+![plot: my .bashrc](plots/HW10_winterlag_zn352.png)
 
 Figure 2 
 
